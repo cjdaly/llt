@@ -1,5 +1,4 @@
 Linux Learning Thing
 ===
 
-* home: https://github.com/cjdaly/llt
-* wiki: https://github.com/cjdaly/llt/wiki
+* Thing1: [Getting Started](https://github.com/cjdaly/llt/wiki/Thing1-GettingStarted), [About](https://github.com/cjdaly/llt/wiki/Thing1)
