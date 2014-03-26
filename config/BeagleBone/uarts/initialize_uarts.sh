@@ -1,5 +1,3 @@
-#/bin/bash
-
 ####
 # Copyright (c) 2014 Chris J Daly (github user cjdaly)
 # All rights reserved. This program and the accompanying materials

@@ -12,7 +12,7 @@ BeagleBone system configuration steps (as root):
 
 ###################################################################
 # initilize UART for LCD
-/home/ubuntu/llt/config/BeagleBone/uarts/initialize_uarts.sh
+bash /home/ubuntu/llt/config/BeagleBone/uarts/initialize_uarts.sh
 #
 sleep 3
 #
