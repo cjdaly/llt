@@ -13,9 +13,9 @@ BeagleBone system configuration steps (as root):
 ###################################################################
 # initilize UART for LCD
 /home/ubuntu/llt/config/BeagleBone/uarts/initialize_uarts.sh
-
-sleep 1
-
+#
+sleep 3
+#
 # display DHCP assigned IP address on LCD
 ruby /home/ubuntu/llt/config/BeagleBone/uarts/lcd-ip-addr.rb
 ###################################################################
